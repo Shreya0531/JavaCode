@@ -1,5 +1,4 @@
 package geeksforgeeks.school.strings;
-
 public class CheckForBinary {
     static boolean isBinary(String str) {
         for (int i = 0; i < str.length(); i++) {
